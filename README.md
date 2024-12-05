@@ -9,8 +9,7 @@ Evaluating multilingual LLMs with word-based metrics is inconsistent due to ling
 
 ## Results
 These are the observed results of our project.
-
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/3dddbd76-64e1-4248-b32b-33cb09080bc3">
+![image](https://github.com/user-attachments/assets/3dddbd76-64e1-4248-b32b-33cb09080bc3)
 
 ## Collaborators:
 1. Charvi Bannur
